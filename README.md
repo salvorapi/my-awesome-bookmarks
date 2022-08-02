@@ -20,10 +20,18 @@ I hope it can be useful for you too.
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
+### Django
+
+* [django-upgrade](https://github.com/adamchainz/django-upgrade)
+
 ### Git
 
 * [https://ohmyposh.dev/](https://ohmyposh.dev/) - A prompt theme engine for any shell.
 * [Pre-Commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks.
+
+### PHP
+
+* [https://blog.devsense.com/2019/debugging-php-on-docker-with-visual-studio-code](Debugging PHP on Docker with VS Code)
 
 ### Documentation & Cheats
 
