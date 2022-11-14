@@ -23,6 +23,7 @@ I hope it can be useful for you too.
 ### Django
 
 * [django-upgrade](https://github.com/adamchainz/django-upgrade)
+* [Django Production Launch](https://devchecklists.com/django-production-launch/)
 
 ### Git
 
