@@ -14,11 +14,12 @@ I hope it can be useful for you too.
 
 ### VSCode
 
-#### Extenions
+#### Extensions
 
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+* [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 ### Django
 
@@ -37,6 +38,7 @@ I hope it can be useful for you too.
 ### Documentation & Cheats
 
 * [DevDocs.io](https://devdocs.io/) - Combines multiple developer documentations in a clean and organized web UI with instant search
+* [free-for.dev](https://free-for.dev/)
 
 ### Education
 
